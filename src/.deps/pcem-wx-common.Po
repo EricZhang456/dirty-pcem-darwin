@@ -1,0 +1,5 @@
+pcem-wx-common.o: wx-common.c wx-common.h config.h
+
+wx-common.h:
+
+config.h:
